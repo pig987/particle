@@ -8,3 +8,6 @@ Features
 - Base Particle / FireParticle / SmokeParticle 상속 구조
 - 수명 기반 생성/소멸
 - 동적 메모리 관리
+
+영상 링크 
+https://youtu.be/G6wQVhRQLs0
